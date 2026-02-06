@@ -1,0 +1,6 @@
+.vs
+Debug
+SFML_test/x64
+SFML_test/Debug
+x64/Debug/SFML_test.exe
+x64/Debug/SFML_test.pdb
